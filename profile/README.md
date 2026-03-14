@@ -1,12 +1,40 @@
-## Hi there 👋
+# Hyggshi OS Project Center
 
-<!--
+Welcome to the official development hub for **Hyggshi OS**.
 
-**Here are some ideas to get you started:**
+Hyggshi OS is an experimental operating system ecosystem focused on performance, modular design, and custom tooling.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Core Projects
+
+### HOSC Language
+The official programming language of Hyggshi OS.
+
+Features:
+- Custom compiler
+- Virtual machine (HVM)
+- Cross-platform toolchain
+
+### Cloudar Browser
+Modern web browser built for the Hyggshi OS ecosystem.
+
+### Hyggshi OS
+The main operating system project.
+
+## Project Structure
+
+- OS kernel development
+- Compiler and language tools
+- Applications and system utilities
+
+## Contributing
+
+We welcome developers to contribute to the Hyggshi ecosystem.
+
+You can:
+- Report issues
+- Submit pull requests
+- Join discussions
+
+## License
+
+All projects follow their respective open-source licenses.
