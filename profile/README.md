@@ -1,5 +1,7 @@
 # Hyggshi OS Project Center
 
+![Hyggshi-OS-project-center](assets/HOS-OSS-270M.png)
+
 Welcome to the official development hub for **Hyggshi OS**.
 
 Hyggshi OS is an experimental operating system ecosystem focused on performance, modular design, and custom tooling.
