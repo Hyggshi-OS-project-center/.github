@@ -1,6 +1,6 @@
 # Hyggshi OS Project Center
 
-![Hyggshi-OS-project-center](assets/HOS-OSS-270M.png)
+![Hyggshi-OS-project-center](https://github.com/Hyggshi-OS-project-center/.github/blob/main/assets/HOS-OSS-270M.png?raw=true)
 
 Welcome to the official development hub for **Hyggshi OS**.
 
